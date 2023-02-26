@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Programming\Seminars\Seminar001\Project003\bin\Debug\net6.0\Project003.exe
+C:\Users\User\Desktop\Programming\Seminars\Seminar001\Project003\bin\Debug\net6.0\Project003.deps.json
+C:\Users\User\Desktop\Programming\Seminars\Seminar001\Project003\bin\Debug\net6.0\Project003.runtimeconfig.json
+C:\Users\User\Desktop\Programming\Seminars\Seminar001\Project003\bin\Debug\net6.0\Project003.dll
+C:\Users\User\Desktop\Programming\Seminars\Seminar001\Project003\bin\Debug\net6.0\Project003.pdb
+C:\Users\User\Desktop\Programming\Seminars\Seminar001\Project003\obj\Debug\net6.0\Project003.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programming\Seminars\Seminar001\Project003\obj\Debug\net6.0\Project003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programming\Seminars\Seminar001\Project003\obj\Debug\net6.0\Project003.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\Seminars\Seminar001\Project003\obj\Debug\net6.0\Project003.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\Seminars\Seminar001\Project003\obj\Debug\net6.0\Project003.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\Seminars\Seminar001\Project003\obj\Debug\net6.0\Project003.dll
+C:\Users\User\Desktop\Programming\Seminars\Seminar001\Project003\obj\Debug\net6.0\refint\Project003.dll
+C:\Users\User\Desktop\Programming\Seminars\Seminar001\Project003\obj\Debug\net6.0\Project003.pdb
+C:\Users\User\Desktop\Programming\Seminars\Seminar001\Project003\obj\Debug\net6.0\Project003.genruntimeconfig.cache
+C:\Users\User\Desktop\Programming\Seminars\Seminar001\Project003\obj\Debug\net6.0\ref\Project003.dll
