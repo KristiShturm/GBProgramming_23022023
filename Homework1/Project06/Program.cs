@@ -6,9 +6,9 @@ int number = int.Parse(Console.ReadLine());
 
 if (number % 2 == 0)
 {
-    Console.WriteLine($"Число чётное");
+    Console.WriteLine("Число чётное");
 }
 else
 {
-    Console.WriteLine($"Число нечётное");
+    Console.WriteLine("Число нечётное");
 }
