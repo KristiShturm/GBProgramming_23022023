@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Programming\Seminars\Homework1\Project04\bin\Debug\net6.0\Project04.exe
+C:\Users\User\Desktop\Programming\Seminars\Homework1\Project04\bin\Debug\net6.0\Project04.deps.json
+C:\Users\User\Desktop\Programming\Seminars\Homework1\Project04\bin\Debug\net6.0\Project04.runtimeconfig.json
+C:\Users\User\Desktop\Programming\Seminars\Homework1\Project04\bin\Debug\net6.0\Project04.dll
+C:\Users\User\Desktop\Programming\Seminars\Homework1\Project04\bin\Debug\net6.0\Project04.pdb
+C:\Users\User\Desktop\Programming\Seminars\Homework1\Project04\obj\Debug\net6.0\Project04.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Programming\Seminars\Homework1\Project04\obj\Debug\net6.0\Project04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Programming\Seminars\Homework1\Project04\obj\Debug\net6.0\Project04.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Programming\Seminars\Homework1\Project04\obj\Debug\net6.0\Project04.AssemblyInfo.cs
+C:\Users\User\Desktop\Programming\Seminars\Homework1\Project04\obj\Debug\net6.0\Project04.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\Seminars\Homework1\Project04\obj\Debug\net6.0\Project04.dll
+C:\Users\User\Desktop\Programming\Seminars\Homework1\Project04\obj\Debug\net6.0\refint\Project04.dll
+C:\Users\User\Desktop\Programming\Seminars\Homework1\Project04\obj\Debug\net6.0\Project04.pdb
+C:\Users\User\Desktop\Programming\Seminars\Homework1\Project04\obj\Debug\net6.0\Project04.genruntimeconfig.cache
+C:\Users\User\Desktop\Programming\Seminars\Homework1\Project04\obj\Debug\net6.0\ref\Project04.dll
