@@ -7,10 +7,8 @@
 */
 
 System.Console.Write("Напишите число: ");
-int number = int.Parse(Console.ReadLine());
-quad(number);
-void quad (int x)
-{
+int x = int.Parse(Console.ReadLine());
+
 for (int i = 1; i <= x; i++)
 {
     if (i == x)
@@ -18,10 +16,9 @@ for (int i = 1; i <= x; i++)
         System.Console.WriteLine(i * i);
         break;
     }
-    System.Console.Write(i * i + ", ");
-    
+    System.Console.Write(i * i + ", ");   
 }
-}
+
 
 
 
